@@ -5,10 +5,10 @@
       
 
   <h2>About</h2>
-  utlized lists and random numbers to create a two player game
+  utilized lists and random numbers to create a two player game
 
 <h2>Project status</h2>
- status:complete 
+ Status:complete 
  <p>June 10, 2020</p>
  
 <h2>Installment</h2>
